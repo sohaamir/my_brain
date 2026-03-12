@@ -8,9 +8,9 @@ GIFs were made using [gif_your_nifti](https://github.com/miykael/gif_your_nifti)
 
 ### Session 1 — Centre for Integrative Neuroscience and Neurodynamics (CINN), University of Reading
 
-**Scanner:** 3T Siemens Prisma
-**Location:** [Centre for Integrative Neuroscience and Neurodynamics (CINN)](https://research.reading.ac.uk/cinn/), University of Reading, UK
-**Operators:** Dr Brendan Williams and Dr Shan Shen
+**Scanner:** 3T Siemens Prisma  
+**Location:** [Centre for Integrative Neuroscience and Neurodynamics (CINN)](https://research.reading.ac.uk/cinn/), University of Reading, UK  
+**Operators:** Dr Brendan Williams and Dr Shan Shen  
 **Context:** Pilot scanning session
 
 | Scan | Type | Description |
@@ -22,11 +22,11 @@ GIFs were made using [gif_your_nifti](https://github.com/miykael/gif_your_nifti)
 
 ### Session 2 — Centre for Human Brain Health (CHBH), University of Birmingham
 
-**Scanner:** 3T Siemens Prisma (serial no. 166100, syngo MR E11)
-**Location:** [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health), Pritchatts Road, University of Birmingham, Birmingham, UK (B15 2RA)
-**Date:** 11 March 2026
-**Operators:** Veronika Wendler and Dr Nina Salman
-**Coil:** 32-channel head coil (Head_32)
+**Scanner:** 3T Siemens Prisma (serial no. 166100, syngo MR E11)  
+**Location:** [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health), Pritchatts Road, University of Birmingham, Birmingham, UK (B15 2RA)  
+**Date:** 11 March 2026  
+**Operators:** Veronika Wendler and Dr Nina Salman  
+**Coil:** 32-channel head coil (Head_32)  
 **Context:** MRI Training session
 
 | Scan | Type | Sequence | Orientation | Resolution | TR / TE | Flip Angle | Description |
